@@ -20,5 +20,6 @@
   script src="js/waypoints.min.js"
   
   script src="js/counterup.min.js"
-  
+
+### 2. <ins> Countdown jQuery Plugin </ins>
   
