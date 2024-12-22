@@ -26,5 +26,5 @@
 * Search by **"countdown js"** or, directly go to the **link**:
   https://codepen.io/AllThingsSmitty/pen/JJavZN
 * Copy the **JS code** from the link and Paste it in the **script.js** file.
-* Copy the **"id="days"""** syntex and Paste it where we need to countdown **Days**. Do the same for  **id="hours"**,  **id="minutes"**, and **id="seconds"**.
+* Copy the **"id="days""** syntex and Paste it where we need to countdown **Days**. Do the same for  **id="hours"**,  **id="minutes"**, and **id="seconds"**.
   
