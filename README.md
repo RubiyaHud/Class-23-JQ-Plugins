@@ -15,5 +15,9 @@
 - Now, Copy the **URL** below and Paste it in browser to get the **JS code (plugin)**. Then, save the JS code named as **"counterup.min.js"** (js file) inside **js folder** of the project.
 
   https://cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0.0/jquery.counterup.min.js
+- Lastly, we need to link the two JS file (**"waypoints.min.js"** and **"counterup.min.js"**) with the Project using the **script tag** in the html file, such as:
+
+  script src="js/waypoints.min.js"
+  script src="js/counterup.min.js"
   
   
