@@ -22,4 +22,7 @@
   script src="js/counterup.min.js"
 
 ### 2. <ins> Countdown jQuery Plugin </ins>
+* At first, write HTML and CSS code for Countdown Item.
+* Search by **"countdown js"** or, directly go to the **link** below:
+  https://codepen.io/AllThingsSmitty/pen/JJavZN
   
