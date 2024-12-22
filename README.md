@@ -18,6 +18,7 @@
 - Lastly, we need to link the two JS file (**"waypoints.min.js"** and **"counterup.min.js"**) with the Project using the **script tag** in the html file, such as:
 
   script src="js/waypoints.min.js"
+  
   script src="js/counterup.min.js"
   
   
