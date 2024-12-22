@@ -1,3 +1,4 @@
 ## JQuery-Plugins
 ### Counter-Up jQuery Plugin
-- George Washington
+- At first, write HTML and CSS code for Counter Item.
+- 
