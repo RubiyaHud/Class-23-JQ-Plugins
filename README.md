@@ -1,1 +1,3 @@
-# Class-23-JQ-Plugins
+## JQuery-Plugins
+### Counter-Up jQuery Plugin
+- George Washington
