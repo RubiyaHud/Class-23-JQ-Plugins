@@ -1,5 +1,5 @@
 ## JQuery-Plugins
-### Counter-Up jQuery Plugin
+### <ins> Counter-Up jQuery Plugin </ins>
 - At first, write HTML and CSS code for Counter Item.
 - Search by **"counter js"** or, go to the link below:
 
