@@ -31,5 +31,8 @@
 
 https://lokeshdhakar.com/projects/lightbox2/
 ### 4. <ins> VenoBox jQuery Plugin </ins>
+- At first, Go to the link below:
 
 https://veno.es/venobox/
+
+- Then click on Download
