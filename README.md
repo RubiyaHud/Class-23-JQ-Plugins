@@ -36,3 +36,4 @@ https://lokeshdhakar.com/projects/lightbox2/
 https://veno.es/venobox/
 
 - Click on Download, then extract the downloaded VenoBox folder. From the VenoBox folder -> **dist** folder -> copy-paste **"venobox.min.css"** and **"venobox.min.js"** to corresponding css and js folder of the Project.
+- Link the **"venobox.min.css"** and **"venobox.min.js"** files with the Project.
