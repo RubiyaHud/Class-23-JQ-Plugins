@@ -30,7 +30,7 @@
 ### 3. <ins> LightBox jQuery Plugin </ins>
 
 https://lokeshdhakar.com/projects/lightbox2/
-### 4. <ins> VenoBox jQuery Plugin </ins>
+### 4. <ins> VenoBox (Image) jQuery Plugin </ins>
 - At first, Go to the link below:
 
 https://veno.es/venobox/
